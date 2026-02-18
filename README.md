@@ -1,2 +1,6 @@
 # ProyectoInvernadero
-Sistemas distribuidos: Jsck Murrieta 
+Sistemas distribuidos: 
+Christopher Alvarez Genteno
+Juan Pablo Heras Carrazco
+Pedro Morales Esquer
+Jack Tadeo Murrieta Torres
