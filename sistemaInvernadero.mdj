@@ -14817,7 +14817,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFFxl6vKz9YEJg="
 					},
-					"name": "DiagramaProyectoInvernadero1.0",
+					"name": "DiagramaProyectoInvernadero2.0",
 					"documentation": "Propuesta de colas, eventBus y uso de base de datos relacional y no relacional, ajustes en la implementacion y declaracion de interfaces entre componentes",
 					"ownedViews": [
 						{
@@ -21135,19 +21135,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGdikmzf1VaAV8="
 							}
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGdy3wWnRosiRg=",
-							"_parent": {
-								"$ref": "AAAAAAGdiNXuhEdea0Q="
-							},
-							"font": "Arial;13;0",
-							"left": 1885,
-							"top": 1607,
-							"width": 100,
-							"height": 142,
-							"text": "Saber que si seran eventos y que no, ademas de hacer una conexion directa de componentes a la BD no relacional"
 						},
 						{
 							"_type": "UMLNoteView",
